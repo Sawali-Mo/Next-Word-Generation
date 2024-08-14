@@ -1,2 +1,3 @@
-# Next-Word-Generation
+# Next-Word-Prediction
+
 Machine Learning
